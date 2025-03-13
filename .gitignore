@@ -4,6 +4,7 @@ venv/*
 back/venv/*
 
 front/node_modules
+front/node_modules/*
 front/.pnp
 front/.pnp.js
 
@@ -12,6 +13,7 @@ front/coverage
 
 # production
 front/build
+front/build/*
 
 # misc
 front/.DS_Store
