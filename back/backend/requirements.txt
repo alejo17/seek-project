@@ -1,0 +1,8 @@
+Django
+django-cors-headers
+djangorestframework
+psycopg2-binary
+wheel
+zappa
+awscli
+urllib3==1.26.14
